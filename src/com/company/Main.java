@@ -1,6 +1,7 @@
 package com.company;
 
 public class Main {
+    //FILLING AN ARRAY
 
     public static void main(String[] args) {
 
